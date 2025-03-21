@@ -1,3 +1,8 @@
+# Correccion del ejercicio del parcial B
+
+-se tomara el sueldo de 10 usuarios siempre y cuando este sea positivo, donde el usuario o asistente podra poner un rango para verificar quien de los usuarios entre dentro de ese rango por medio de condicionales simples, donde todo se pedira por teclado para una facil comunicación con el programa propuesto ya que este programa es un arreglo o una mejora del programa SuperMalHecho.java
+
+
 
 # 🧠 **Ejercicio 2: Control de Nómina**
 
